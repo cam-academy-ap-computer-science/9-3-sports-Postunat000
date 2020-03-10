@@ -1,8 +1,4 @@
 
 public class Sports {
-
-	public static void main(String[] args) {
-		
-	}
-
+	private Player[] player[];
 }
